@@ -1,3 +1,2 @@
-Coding is cool.
-Cat is best.
+Just Do it.
 [个人主页](https://junxio.com)
