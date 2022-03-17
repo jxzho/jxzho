@@ -1,2 +1,2 @@
 Just Do it.
-[个人主页](https://junxio.com){:target="_blank"}
+<a href="https://junxio.com" target="_blank">个人主页</a>
