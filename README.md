@@ -1,2 +1,2 @@
 Just Do it.
-[个人主页](https://junxio.com)
+[个人主页](https://junxio.com){:target="_blank"}
