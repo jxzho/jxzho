@@ -2,4 +2,4 @@
 
 <br>
 
-<a href="https://blog-rss.vercel.app/" target="_blank">Read My Blog</a>
+<a href="https://blog-rss.vercel.app/" target="_blank">My Blog.</a>
