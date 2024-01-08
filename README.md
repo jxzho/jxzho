@@ -1,4 +1,4 @@
-![image](https://github.com/jxzho/jxzho/assets/37285048/75f91be2-bc2b-47e4-bd84-cb09f4eb7b86)<ul>
+<ul>
   <li>
     <a href="https://junxio.vercel.app/" target="_blank">Just Do it.</a>
   </li>
