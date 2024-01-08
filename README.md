@@ -8,4 +8,12 @@
   </li>
 </ul>
 
-![JunXio's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxzho&theme=ambient_gradient&show_icons=true)
+<div>
+  <a href="https://github.com/jxzho">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jxzho&theme=moltack&show_icons=true" />
+  </a>
+  
+  <a href="https://github.com/jxzho">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxzho&layout=compact&hide=html,css,less,scss" />
+  </a>
+</div>
