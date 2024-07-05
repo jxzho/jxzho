@@ -1,10 +1,10 @@
 <ul>
   <li>
-    <a href="me.junxio.cc" target="_blank">Just Do it.</a>
+    <a href="https://me.junxio.cc" target="_blank">Just Do it.</a>
   </li>
 
   <li>
-    <a href="blog.junxio.cc" target="_blank">My Blog.</a>
+    <a href="https://blog.junxio.cc" target="_blank">My Blog.</a>
   </li>
 </ul>
 
