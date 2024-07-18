@@ -1,3 +1,8 @@
+<div>
+  👋 Hi ,
+</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=18&duration=2000&pause=1000&color=4493F8&vCenter=true&width=128&height=38&lines=I+am+Junxio." alt="Typing SVG" /></a>
+
 <ul>
   <li>
     <a href="https://me.junxio.cc" target="_blank">Just Do it.</a>
