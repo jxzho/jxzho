@@ -1,5 +1,5 @@
 <div>
-  👋 Hi ,
+  👋 Hi, there.
 </div>
 
 <a href="https://github.com/jxzho"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Sans+Mono&weight=500&size=18&duration=2000&pause=1000&color=4493F8&vCenter=true&width=128&height=28&lines=I+am+Junxio." alt="Typing SVG" /></a>
