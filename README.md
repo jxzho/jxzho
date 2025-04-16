@@ -8,13 +8,13 @@
   <div>
     <p>
       🌀
-      <a href="https://me.junxio.cc" target="_blank">Just Do it.</a>
+      <a href="https://junxio.vercel.app/" target="_blank">Just Do it.</a>
     </p>
   </div>
   
   <div>
     🌀
-    <a href="https://blog.junxio.cc" target="_blank">My Blog.</a>
+    <a href="https://blog.junxio.win/" target="_blank">My Blog.</a>
   </div>
 </div>
 
